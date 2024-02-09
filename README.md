@@ -1,5 +1,5 @@
-### Hello! 👋
-### I'm Halimah Omogiafo!
+<p><strong> Hello! 👋 </strong></p>
+<p><strong> I'm Halimah Omogiafo! </strong></p>
 
 I’m building <a href="https://www.koody.co" target="_blank">Koody</a>, a personal finance app and stock market research platform headquartered in London, UK.
 
