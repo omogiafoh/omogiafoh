@@ -5,9 +5,9 @@ I’m building <a href="https://www.koody.co" target="_blank">Koody</a>, a perso
 
 My background is in finance and entrepreneurship. I studied finance as an undergraduate, launched my first venture in my final year, and ran it successfully for a few years. I then went on to work in banking and fintech startups. I also have an MBA.
 
-I only started learning to code a few years ago, and it’s increasingly becoming my favourite thing to do 😊
+I started learning to code a few years ago, and it’s increasingly becoming one of my favourite things to do 😊
 
-My goal here is to improve my coding skills (become a 10x engineer 😉), meet interesting people, participate in open-source projects, and have fun along the way.
+My goal here is to improve my coding skills (become a 10x engineer 😉), meet interesting people, contribute to open-source projects, and have fun along the way.
 
 You can find me on:
 - <a href="https://twitter.com/HalimahOO" target="_blank"> Twitter </a>
