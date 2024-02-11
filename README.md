@@ -7,7 +7,7 @@ My background is in finance and entrepreneurship. I studied finance as an underg
 
 I started learning to code a few years ago, and it’s increasingly becoming one of my favourite things to do 😊
 
-My goal here is to improve my coding skills (become a 10x engineer 😉), meet interesting people, contribute to open-source projects, and have fun along the way.
+My goal here is to improve my coding skills (become a 10x engineer 😉), meet interesting people, contribute to open source projects, and have fun along the way.
 
 You can find me on:
 - <a href="https://twitter.com/HalimahOO" target="_blank"> Twitter </a>
