@@ -1,7 +1,7 @@
 <p><strong> Hello! 👋 </strong></p>
 <p><strong> I'm Halimah Omogiafo! </strong></p>
 
-I’m building <a href="https://www.koody.co" target="_blank">Koody</a>, a personal finance app and stock market research platform.
+I’m building <a href="https://www.koody.co" target="_blank">Koody</a>, a personal finance app and stock market research platform, to help people make better-informed financial decisions.
 
 I started learning to code a few years ago, and it’s increasingly becoming one of my favourite things to do 😊
 
