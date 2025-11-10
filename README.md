@@ -1,7 +1,7 @@
 <p><strong> Hello! 👋 </strong></p>
 <p><strong> I'm Hallie Omogiafo! </strong></p>
 
-I’m building <a href="https://koody.com" target="_blank">Koody</a>, a budgeting and personal finance app, to help people make better-informed financial decisions.
+I’m building <a href="https://koody.com/?ref=github" target="_blank">Koody</a>, an AI-powered personal finance and budgeting app, to help people make better-informed financial decisions.
 
 I started learning to code a few years ago, and it’s increasingly becoming one of my favourite things to do 😊
 
